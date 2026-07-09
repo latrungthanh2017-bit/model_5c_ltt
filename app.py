@@ -8,8 +8,8 @@ import streamlit as st
 # LỆNH STREAMLIT ĐẦU TIÊN
 st.set_page_config(
     layout="wide",
-    page_title="Đánh giá Rủi ro Tín dụng - Mô hình 5C",
-    page_icon="🏦",
+    page_title="Mô hình 5C",
+    page_icon="🍭",
 )
 
 import io
